@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50512939-B3AE-47E9-B4DD-5D24868A1C53}|Week4.csproj|solutionrelative:appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "CheckingAccount.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\CheckingAccount.cs",
+              "RelativeToolTip": "CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:57:45.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:56:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:52:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Refrigerator.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Refrigerator.cs",
+              "RelativeDocumentMoniker": "Refrigerator.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Refrigerator.cs",
+              "RelativeToolTip": "Refrigerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:43:16.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WashingMachine.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\WashingMachine.cs",
+              "RelativeDocumentMoniker": "WashingMachine.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\WashingMachine.cs",
+              "RelativeToolTip": "WashingMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:42:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appliance.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Appliance.cs",
+              "RelativeDocumentMoniker": "Appliance.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Appliance.cs",
+              "RelativeToolTip": "Appliance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:40:07.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:19:07.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

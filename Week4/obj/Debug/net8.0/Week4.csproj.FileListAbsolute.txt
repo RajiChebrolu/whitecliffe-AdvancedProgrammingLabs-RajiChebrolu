@@ -1,0 +1,15 @@
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\bin\Debug\net8.0\Week4.exe
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\bin\Debug\net8.0\Week4.deps.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\bin\Debug\net8.0\Week4.runtimeconfig.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\bin\Debug\net8.0\Week4.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\bin\Debug\net8.0\Week4.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.AssemblyInfoInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.AssemblyInfo.cs
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.csproj.CoreCompileInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.sourcelink.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\refint\Week4.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\Week4.genruntimeconfig.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4\obj\Debug\net8.0\ref\Week4.dll
