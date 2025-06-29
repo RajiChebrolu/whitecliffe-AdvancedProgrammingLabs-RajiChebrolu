@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4_interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4_interfaceexample\\projectmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|solutionrelative:projectmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4_interfaceexample\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week4_interfaceexample\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294290-65BD-4799-85E3-AA223F3A9185}|Week4_interfaceExample.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectManage.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\ProjectManage.cs",
+              "RelativeDocumentMoniker": "ProjectManage.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\ProjectManage.cs",
+              "RelativeToolTip": "ProjectManage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:37:15.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:30:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:16:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week4_interfaceExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:58:40.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

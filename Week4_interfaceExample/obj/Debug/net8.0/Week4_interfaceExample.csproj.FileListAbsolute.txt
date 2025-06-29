@@ -1,0 +1,15 @@
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\bin\Debug\net8.0\Week4_interfaceExample.exe
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\bin\Debug\net8.0\Week4_interfaceExample.deps.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\bin\Debug\net8.0\Week4_interfaceExample.runtimeconfig.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\bin\Debug\net8.0\Week4_interfaceExample.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\bin\Debug\net8.0\Week4_interfaceExample.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.AssemblyInfoInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.AssemblyInfo.cs
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.csproj.CoreCompileInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.sourcelink.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\refint\Week4_interfaceExample.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\Week4_interfaceExample.genruntimeconfig.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\Week4_interfaceExample\obj\Debug\net8.0\ref\Week4_interfaceExample.dll
