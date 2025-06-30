@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78E28A93-A63D-4625-84E2-2A2C2CFADCE8}|StockManagementSystem.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\stockmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E28A93-A63D-4625-84E2-2A2C2CFADCE8}|StockManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E28A93-A63D-4625-84E2-2A2C2CFADCE8}|StockManagementSystem.csproj|D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78E28A93-A63D-4625-84E2-2A2C2CFADCE8}|StockManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E28A93-A63D-4625-84E2-2A2C2CFADCE8}|StockManagementSystem.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\stockmanagementsystem\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E28A93-A63D-4625-84E2-2A2C2CFADCE8}|StockManagementSystem.csproj|solutionrelative:stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:39:07.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\StockItem.cs",
+              "RelativeDocumentMoniker": "StockItem.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\StockItem.cs",
+              "RelativeToolTip": "StockItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:35:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\StockManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:26:10.488Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

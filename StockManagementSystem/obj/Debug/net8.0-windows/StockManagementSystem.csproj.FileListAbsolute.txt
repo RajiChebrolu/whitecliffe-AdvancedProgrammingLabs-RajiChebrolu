@@ -1,0 +1,17 @@
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\bin\Debug\net8.0-windows\StockManagementSystem.exe
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\bin\Debug\net8.0-windows\StockManagementSystem.deps.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\bin\Debug\net8.0-windows\StockManagementSystem.runtimeconfig.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\bin\Debug\net8.0-windows\StockManagementSystem.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\bin\Debug\net8.0-windows\StockManagementSystem.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.Form1.resources
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.csproj.GenerateResource.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.AssemblyInfoInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.AssemblyInfo.cs
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.csproj.CoreCompileInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.sourcelink.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\refint\StockManagementSystem.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\StockManagementSystem.genruntimeconfig.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StockManagementSystem\obj\Debug\net8.0-windows\ref\StockManagementSystem.dll

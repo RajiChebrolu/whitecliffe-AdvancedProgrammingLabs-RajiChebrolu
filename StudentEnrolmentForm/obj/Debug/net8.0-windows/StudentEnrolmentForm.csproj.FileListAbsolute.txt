@@ -1,0 +1,17 @@
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\bin\Debug\net8.0-windows\StudentEnrolmentForm.exe
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\bin\Debug\net8.0-windows\StudentEnrolmentForm.deps.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\bin\Debug\net8.0-windows\StudentEnrolmentForm.runtimeconfig.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\bin\Debug\net8.0-windows\StudentEnrolmentForm.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\bin\Debug\net8.0-windows\StudentEnrolmentForm.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.Form1.resources
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.csproj.GenerateResource.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.AssemblyInfoInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.AssemblyInfo.cs
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.csproj.CoreCompileInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.sourcelink.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\refint\StudentEnrolmentForm.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\StudentEnrolmentForm.genruntimeconfig.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\StudentEnrolmentForm\obj\Debug\net8.0-windows\ref\StudentEnrolmentForm.dll

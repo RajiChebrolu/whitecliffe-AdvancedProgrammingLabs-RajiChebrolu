@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|d:\\whitecliffe\\2025\\q2andq3-2025\\advancedprogramming-it7742\\whitecliffe-advancedprogramminglabs-rajichebrolu\\week2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBAB2F5-EC1F-41E5-A2FE-1FE36550D65B}|Week2.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Magazine.cs",
+              "RelativeDocumentMoniker": "Magazine.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Magazine.cs",
+              "RelativeToolTip": "Magazine.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:33:50.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:27:07.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:23:09.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:03:48.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:26:29.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA6wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:24:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Whitecliffe\\2025\\Q2andQ3-2025\\AdvancedProgramming-IT7742\\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\\Week2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:57:07.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
