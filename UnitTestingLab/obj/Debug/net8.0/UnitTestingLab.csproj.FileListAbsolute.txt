@@ -1,0 +1,15 @@
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.exe
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.deps.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.runtimeconfig.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\bin\Debug\net8.0\UnitTestingLab.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.AssemblyInfoInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.AssemblyInfo.cs
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.csproj.CoreCompileInputs.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.sourcelink.json
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\refint\UnitTestingLab.dll
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.pdb
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\UnitTestingLab.genruntimeconfig.cache
+D:\Whitecliffe\2025\Q2andQ3-2025\AdvancedProgramming-IT7742\whitecliffe-AdvancedProgrammingLabs-RajiChebrolu\UnitTestingLab\obj\Debug\net8.0\ref\UnitTestingLab.dll
