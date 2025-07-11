@@ -1,0 +1,10 @@
+1, student1, Year1, student1@gmail.com, Auckland, 0123456, Computer Science;English;Acting
+2, student2, Year2, student2@gmail.com, Wellington, 0123456, Mathematics;English;Spanish
+3, student3, Year3, student3@gmail.com, Wellington, 0123456, English;Spanish;Business
+4, student4, Year1, student4@gmail.com, Palmerston North, 0123456, Spanish;Business;Electronics
+5, student5, Year2, student5@gmail.com, Palmerston North, 0123456, French;Business;Electronics
+6, student6, Year3, student5@gmail.com, Dunedin, 0123456, French;Electronics;Biology
+7, student7, Year1, student7@gmail.com, Christrchurch, 0123456, Spanish;Biology;Chemistry
+8, student8, Year2, student8@gmail.com, Queenstown, 0123456, English;Geography;Photography
+9, student9, Year3, student9@gmail.com, Queenstown, 0123456, English;Photography;Architecture
+10, student10, Year2, student10@gmail.com, Auckland, 0123456, English;Architecture;Physics
